@@ -1,0 +1,24 @@
+{
+  "name": "56abd-simple-calculator",
+  "version": "1.0.0",
+  "description": "This is Simple Calculator using Typescript, Nodejs & Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Simple-Calculator"
+  },
+  "author": "Abdul-Haq",
+  "license": "MIT",
+  "dependencies": {
+    "56abd-simple-calculator": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
